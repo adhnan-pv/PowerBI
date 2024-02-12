@@ -1,3 +1,3 @@
-This Report contain 
+Housing Data contains
 - Bar Chart
 - Pie Chart
