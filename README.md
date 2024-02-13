@@ -11,5 +11,5 @@
 
  - GDP of states in india
  - literacy rate of districts in kerala
- - the screenshot file is the graph visual 
+ - the screenshot 2024-02-13 file is the graph visual 
 
