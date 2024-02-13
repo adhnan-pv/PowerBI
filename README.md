@@ -10,5 +10,6 @@
  map file contains Map visual of
 
  - GDP of states in india
- - literacy rate of districts in kerala 
+ - literacy rate of districts in kerala
+ - the screenshot file is the graph visual 
 
