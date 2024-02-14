@@ -11,5 +11,10 @@
 
  - GDP of states in india
  - literacy rate of districts in kerala
- - the screenshot 2024-02-13 file is the graph visual 
+ - the screenshot 2024-02-13 file is the graph visual
+
+ world population and Geographical Area of countries
+ - world Map
+ - screenshot of the graph
+
 
