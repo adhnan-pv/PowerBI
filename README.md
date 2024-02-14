@@ -17,4 +17,5 @@
  - world Map
  - screenshot of the graph
 
-
+Ribon And Funnel chart
+- there is a screenshoot of the chart
