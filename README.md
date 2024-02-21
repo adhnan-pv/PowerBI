@@ -26,3 +26,12 @@ Tables
 - matrix table
 - hierarchy
 - conditional formating 
+
+Walmart Report 
+- this contains different graph
+- funnel chart
+- stacked column chart
+- donut chart
+- table
+- multi-row-card
+- slicer
